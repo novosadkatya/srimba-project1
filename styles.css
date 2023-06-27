@@ -41,7 +41,7 @@ body {
 
 .hero-section {
     height: 343px;
-    background-image: url("images/torshov.jpg");
+    background-image: url("torshov.jpg");
     background-size: cover;
     display: flex;
     flex-direction: column;
